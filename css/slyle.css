@@ -1,0 +1,13 @@
+body{
+    background: url(../img/i\ \(1\).webp) lightcyan repeat-x 100% bottom;
+}
+.bold{
+    font-weight: bold;
+}
+u1{
+    list-style-type: lower-roman;
+}
+.color{
+    color: lawngreen;
+    font-size: 2rem;
+}
