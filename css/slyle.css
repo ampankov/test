@@ -4,7 +4,7 @@ body{
 .bold{
     font-weight: bold;
 }
-u1{
+ul{
     list-style-type: lower-roman;
 }
 .color{
